@@ -90,3 +90,5 @@ test("타이틀이 있는가?", () => {
   expect(titleEl).toBeInTheDocument();
 });
 ```
+
+-> Next Step 모노레포로를 적용해서 여러 프로젝트 생성해서 버전관리 해보기
