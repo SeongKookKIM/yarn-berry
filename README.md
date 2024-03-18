@@ -1,10 +1,11 @@
 # Yarn berry 패키지 매니저 사용하여 vite react typescript 사용
 
-- 왜 yarn berry를 사용하는 것일까?
+## 왜 yarn berry를 사용하는 것일까?
+
 - Plug'n'Play (PnP)
-  \*Yarn Berry는 Plug'n'Play 기능을 도입하여 의존성을 더 효율적으로 관리합니다. 이로써 node_modules 폴더가 더 이상 필요하지 않으며, 디스크 공간을 절약할 수 있습니다.
+  - Yarn Berry는 Plug'n'Play 기능을 도입하여 의존성을 더 효율적으로 관리합니다. 이로써 node_modules 폴더가 더 이상 필요하지 않으며, 디스크 공간을 절약할 수 있습니다.
 - Zero-installs
-  \*Yarn Berry는 zero-installs를 지원하여 프로젝트의 의존성을 전역으로 설치하지 않고도 사용할 수 있습니다. 이것은 빠른 시작과 업데이트를 가능하게 합니다.
+  - Yarn Berry는 zero-installs를 지원하여 프로젝트의 의존성을 전역으로 설치하지 않고도 사용할 수 있습니다. 이것은 빠른 시작과 업데이트를 가능하게 합니다.
 - 성능 향상
   - Yarn Berry는 이전 버전에 비해 훨씬 빠르고 효율적인 성능을 제공합니다.
 
