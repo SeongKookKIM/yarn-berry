@@ -22,7 +22,7 @@
 `Yarn Berry Setting`
 
 ```js
-- yarn seet version berry
+- yarn set version berry
 - 위 코드를 입력하게되면 .yarn파일과 .yarnrc.yml 파일이 생성된것을 확인할 수 있다.
 ```
 
